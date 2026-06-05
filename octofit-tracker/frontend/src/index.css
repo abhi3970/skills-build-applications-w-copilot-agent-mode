@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f4f7fb;
+  color: #111827;
+}
+
+.app {
+  padding: 4rem;
+  max-width: 42rem;
+  margin: 0 auto;
+}
